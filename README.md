@@ -1,4 +1,4 @@
-# European Parliament Sessions Database (1996–2024)
+# European Parliament Sessions Dataset (1996–2024)
 
 <div align="justify">
 
