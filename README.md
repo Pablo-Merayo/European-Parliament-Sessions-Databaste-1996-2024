@@ -6,6 +6,7 @@ The dataset was self-developed, taking the data from the HTML code used to struc
 
 The precise number of quotes contained in the dataset is 624,001 quotes, with an average of 21,782 quotes per year. These represent debates, procedural statements, questions and answers, and other forms of parliamentary proceedings carried out in the 12 plenary meetings held yearly in Strasbourg, alongside 5 to 10 additional meetings held to address minor proceedings and exceptional circumstances in Brussels. In these meetings, which have a duration of 2 to 3 days, the average quote length was around 92 words. Generally, the frequencies tended to grow slightly over time but remained consistent. The notable exception is the 2014 to 2016 period, which saw abnormally high quote numbers of up to 93,000 in 2016, followed by a sharp reduction in the number of quotes in 2017. This is due to a temporary change in the parliamentary proceeding practices, whereby written responses were either more commonly allowed or better recorded between 2014 and 2016, encouraging greater participation among MEPs and creating a period with a richer quantity of data to draw from.
 
+**IMPORTANT ** If your excel settings may not display the data in a structured way, you may have to go to the data tab and change the text to column settings to delimited by semicolon.
 </div>
 
 ## Quotes per Year and Number of Quotes in Writing
